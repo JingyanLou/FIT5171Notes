@@ -49,3 +49,8 @@
 - 根据这个交通信号灯系统，画出finite state machine
 - 这道题考试的时候简直就是噩梦级别的存在
 
+
+## Cheatsheet
+[FIT5171CompressedNotes.pdf](https://github.com/user-attachments/files/15813257/FIT5171CompressedNotes.pdf)
+
+

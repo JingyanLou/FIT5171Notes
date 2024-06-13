@@ -32,7 +32,7 @@
 
 ### Q3: Program Graph
 
-<img width="432" alt="image" src="https://github.com/JingyanLou/FIT5171Notes/assets/92469426/976fb5e1-aff3-447a-b4de-c9c6ceba077b">
+- <img width="432" alt="image" src="https://github.com/JingyanLou/FIT5171Notes/assets/92469426/976fb5e1-aff3-447a-b4de-c9c6ceba077b">
 - MergeSort
 - Merge
 - Q3.1:求program excution graph

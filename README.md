@@ -1,7 +1,6 @@
 # FIT5171Notes
-- Notes for FIT5171:System validation and testing
-- （Monash University), Semester 1 2024. 
-
+- Notes for FIT5171:System validation and testing (Monash University), Semester 1 2024. 
+- Feel free to ask me questions related to this unit.
 # Course Review
 - 选这门课之前就有上一届的学长提醒我千万不要选这门课，当时不懂，后来经历了这一个学期以后感受如下：
 - 1.这门课主要代码成分不多，大多数都是用离散数学去抽象测试。如果你喜欢离散数学，测试的理论，一些测试metrics，graph theory的话可以来学。
@@ -12,7 +11,7 @@
 - 6.学习中最苦难的是，没有答案！所以学到最后也不知道自己是对的还是错的，太开放了。
 - 7.说一说这个yuanfang大哥，yuanfang大哥听在monash工作的朋友说事it部门元老级别的人物了，讲课很有数学大哥的感觉，但是希望还是讲的具体一些，多给一些例子，因为本身东西理论的部分就很多了，例子少的话就很难去抽象。
 - 8.总体来说别选这门课，选5225云计算这种又有用又资源多的课，不香啊？不听劝选这门课你就等着吧，一学一个不吱声。
-- <img width="601" alt="image" src="https://github.com/JingyanLou/FIT5171Notes/assets/92469426/ddf09b87-d18f-4219-8fba-25d0cf79cd53">
+
 
 Before choosing this course, a senior from the previous year warned me not to select it. I didn't understand at the time, but after experiencing this semester, here's how I feel:
 - This course doesn't involve much coding. Most of it is about abstracting testing using discrete mathematics. If you enjoy discrete mathematics, testing theory, some testing metrics, and graph theory, you might like this course.

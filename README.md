@@ -1,7 +1,18 @@
 # FIT5171Notes
-- Notes for FIT5171:System validation and testing (Monash University), Semester 1 2024. 
+- Notes for FIT5171:System validation and testing
+- （Monash University), Semester 1 2024. 
 
 # Course Review
+- 选这门课之前就有上一届的学长提醒我千万不要选这门课，当时不懂，后来经历了这一个学期以后感受如下：
+- 1.这门课主要代码成分不多，大多数都是用离散数学去抽象测试。如果你喜欢离散数学，测试的理论，一些测试metrics，graph theory的话可以来学。
+- 2.如果你是为了学习测试代码的话来学这门课，那么代码部分例如junit test，mockitto，oop programming真的需要你去花5000刀去学吗？这些东西看个tutorial，udemy 30刀报个课学不明白？
+- 3.这门课只有2个老师，ed上的问题基本上要3-5天才能恢复，lecture recording有12节，但是只有6节有声音（this is crazy），但是总体来说上课的氛围还不错老师很厉害，可以和你分享一些工作中真实的案例。
+- 4.说到作业，50%的in-sem，其中40%是一个大作业，从测试计划，测试用例，到最后的评估测试结果。小组组员很重要，但是根据我的观察，老师其实并没有很细心的看你的作业，差不多就行了基本上，而且打分很宽松，基本上刷脸多一些，和老师互动多的话分数都不低。
+- 5.有出勤率，和每周的quiz，总体占10%。
+- 6.学习中最苦难的是，没有答案！所以学到最后也不知道自己是对的还是错的，太开放了。
+- 7.说一说这个yuanfang大哥，yuanfang大哥听在monash工作的朋友说事it部门元老级别的人物了，讲课很有数学大哥的感觉，但是希望还是讲的具体一些，多给一些例子，因为本身东西理论的部分就很多了，例子少的话就很难去抽象。
+- 8.总体来说别选这门课，选5225云计算这种又有用又资源多的课，不香啊？不听劝选这门课你就等着吧，一学一个不吱声。
+- <img width="601" alt="image" src="https://github.com/JingyanLou/FIT5171Notes/assets/92469426/ddf09b87-d18f-4219-8fba-25d0cf79cd53">
 
 # Exam Review
 ## Exam Details

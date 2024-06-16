@@ -14,6 +14,16 @@
 - 8.总体来说别选这门课，选5225云计算这种又有用又资源多的课，不香啊？不听劝选这门课你就等着吧，一学一个不吱声。
 - <img width="601" alt="image" src="https://github.com/JingyanLou/FIT5171Notes/assets/92469426/ddf09b87-d18f-4219-8fba-25d0cf79cd53">
 
+Before choosing this course, a senior from the previous year warned me not to select it. I didn't understand at the time, but after experiencing this semester, here's how I feel:
+- This course doesn't involve much coding. Most of it is about abstracting testing using discrete mathematics. If you enjoy discrete mathematics, testing theory, some testing metrics, and graph theory, you might like this course.
+- If you're here to learn about testing code, ask yourself if you really need to spend $5,000 to learn things like JUnit tests, Mockito, and OOP programming. Can't you just learn these from a tutorial or a $30 Udemy course?
+- There are only two instructors for this course. Questions on Ed usually take 3-5 days to get a response. There are 12 lecture recordings, but only 6 have sound (this is crazy). However, the overall class atmosphere is good, and the teachers are very knowledgeable, sharing real-world examples from their work.
+- Regarding assignments, 50% of the grade is in-semester, with 40% being a major project that includes the test plan, test cases, and final evaluation of test results. Group members are very important, but based on my observation, the instructors don't seem to pay much attention to your assignments. If it's - decent enough, you'll get a good score. Interaction with the instructors can significantly boost your grade.
+- There is attendance and a weekly quiz, which together account for 10% of the grade.
+- The hardest part of studying is that there are no answers! So, by the end, you don't know if what you learned is right or wrong. It's too open-ended.
+- Let's talk about Yuanfang. I've heard from friends working at Monash that he's a veteran in the IT department. He lectures like a math guru, but I wish he could be more specific and give more examples because the theoretical content is already very heavy. Without enough examples, it's hard to abstract.
+- Overall, don't choose this course. Choose something useful and resource-rich like 5225 Cloud Computing. Isn't that much better? If you don't listen to the advice and take this course, you'll regret it silently for a whole semester.
+
 # Exam Review
 ## Exam Details
 - Duration:2h10min 
